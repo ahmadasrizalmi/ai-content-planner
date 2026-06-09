@@ -268,6 +268,5 @@ Gunakan warna yang kontras dengan foto. Prioritaskan readability.`;
 // ─── Open Side Panel ──────────────────────────────────────────────
 
 // Side panel opens automatically via setPanelBehavior
-chrome.sidePanel.setPanelBehavior({ openPanelOnActionClick: true });
 
 console.log('[AI Content Planner] Background loaded');
