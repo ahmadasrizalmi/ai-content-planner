@@ -1,6 +1,6 @@
 # AI Content Planner Chrome Extension
 
-AI-powered social media content planner for interior photographers. Generate captions and designs using Gemini Pro subscription.
+AI-powered social media content planner Chrome Extension for interior photographers. Generate captions and designs using Gemini Pro subscription.
 
 ## Features
 
