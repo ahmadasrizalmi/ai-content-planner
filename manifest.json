@@ -7,8 +7,7 @@
     "activeTab",
     "identity",
     "storage",
-    "downloads",
-    "side_panel"
+    "downloads"
   ],
   "background": {
     "service_worker": "background.js"
